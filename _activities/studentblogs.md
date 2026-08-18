@@ -13,6 +13,13 @@ layout: default
 
 This is a collection of blog posts from GSoC students who worked with HumanAI.
 
+### Google Summer of Code 2026
+
+<table class="table table-hover table-striped">
+  <tr>
+    <td><a href="https://medium.com/@vennelavarshini07/micro-rooms-macro-noise-engineering-the-tcamp-architecture-for-human-factors-research-380235fc242b" target="_blank">"TCAMP: Automated Team Communication Analysis Pipeline for Human-Factors Research" by Vennela Varshini Anasoori</a></td>
+  </tr>
+</table>
 ### Google Summer of Code 2025
 
 <table class="table table-hover table-striped">
@@ -78,4 +85,5 @@ This is a collection of blog posts from GSoC students who worked with HumanAI.
 ## Contacts
 
 *HumanAI GSoC Admins* [human-ai@cern.ch](mailto:human-ai@cern.ch)
+
 
